@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "559485230040",
+    "project_id": "socialauthentication-74728",
+    "storage_bucket": "socialauthentication-74728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559485230040:android:3744033701ff2d29b930ad",
+        "android_client_info": {
+          "package_name": "com.socialauthenticationwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559485230040-deidd495lhvou1nsjvk8261ijrldihhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsqh5bMt49Gdx6I-SZtD99UFo4OOgpK4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559485230040-deidd495lhvou1nsjvk8261ijrldihhu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "559485230040-upot010js6qnu7g24imej0cc8uhe85dg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.SocialAuthenticationWithFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

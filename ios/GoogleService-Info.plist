@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>559485230040-upot010js6qnu7g24imej0cc8uhe85dg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.559485230040-upot010js6qnu7g24imej0cc8uhe85dg</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCqJ6vfTFyujYIRrP0FbUHKP405gPgHREU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>559485230040</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.SocialAuthenticationWithFirebase</string>
+	<key>PROJECT_ID</key>
+	<string>socialauthentication-74728</string>
+	<key>STORAGE_BUCKET</key>
+	<string>socialauthentication-74728.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:559485230040:ios:7f0443f4810ea06ab930ad</string>
+</dict>
+</plist>

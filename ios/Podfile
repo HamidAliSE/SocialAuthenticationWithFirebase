@@ -26,6 +26,8 @@ target 'SocialAuthenticationWithFirebase' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
+  pod 'GoogleSignIn'
+
   target 'SocialAuthenticationWithFirebaseTests' do
     inherit! :complete
     # Pods for testing
